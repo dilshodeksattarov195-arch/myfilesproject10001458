@@ -1,0 +1,8 @@
+body { background: #f78307; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 52px; display: flex; }
+.block-filter-0 { color: #334486; font-size: 13px; margin-bottom: 5px; }
+.block-uploader-1 { color: #4fabb3; font-size: 12px; margin-bottom: 5px; }
+.block-search-2 { color: #d34595; font-size: 21px; margin-bottom: 5px; }
+.block-token-3 { color: #cefbac; font-size: 20px; margin-bottom: 5px; }
+.block-router-4 { color: #c844ca; font-size: 12px; margin-bottom: 5px; }
+.block-cluster-5 { color: #be30ad; font-size: 18px; margin-bottom: 5px; }
