@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authvonnect",
+        "uuid": 1042470,
+        "checksum": "w1j2hq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
